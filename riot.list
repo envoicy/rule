@@ -53,7 +53,8 @@ HOST-SUFFIX,ruinedking.com,Riot
 HOST-SUFFIX,supremacy.com,Riot
 HOST-SUFFIX,supremacy.net,Riot
 HOST-SUFFIX,ulol.com,Riot
-IP-CIDR,175.97.184.234/32,no-resolve
-IP-CIDR,175.97.196.122/32,no-resolve
-IP-CIDR,43.135.84.239/32,no-resolve
-IP-CIDR,43.163.252.66/32,no-resolve
+IP-CIDR,175.97.184.0/23,no-resolve
+IP-CIDR,175.97.192.0/20,no-resolve
+IP-CIDR,43.135.64.0/18,no-resolve
+IP-CIDR,43.163.224.0/19,no-resolve
+IP-CIDR,129.226.2.0/23,no-resolve
