@@ -1,3 +1,5 @@
+HOST,wildrift-na.akamaized.net
+
 HOST-SUFFIX,championshipseriesleague.com,Riot
 HOST-SUFFIX,convrgencegame.com,Riot
 HOST-SUFFIX,historyofdota.com,Riot
@@ -54,7 +56,7 @@ HOST-SUFFIX,supremacy.com,Riot
 HOST-SUFFIX,supremacy.net,Riot
 HOST-SUFFIX,ulol.com,Riot
 
-HOST,wildrift-na.akamaized.net
+
 IP-CIDR,175.97.184.0/23,no-resolve
 IP-CIDR,175.97.192.0/20,no-resolve
 IP-CIDR,43.135.64.0/18,no-resolve
